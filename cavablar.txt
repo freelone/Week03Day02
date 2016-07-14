@@ -1,0 +1,34 @@
+I.(css)
+1.Kod yazmaga bashlayarken  "margin: 0 auto;" yazmaq lazimdir.
+2.Hansisa elementlere eyni parametrler verildikde onlari qruplashdirma lazimdir.
+3.Imkan daxilinde chox kommentlerden istifade edilme,kodun bashqa bir developer terefinden oxunduqda ona komek ola bilir.
+4.Padding ve marginleri reset etmek uchun kodun evvelinde Reset.css'den istifade etmek lazimdir.
+6.Kodu elifba sirasi ile yazmaq.
+7.Kodu maksimum formada qisa yazmaq.
+8.css faylini ayri style.css ichinde yazmaq "index.html" faylinda yazmaqdan daha rahat olar biler.
+9.Shekil evezine mumkun qeder icon'lardan istifade etmek ishimizi bir chox asanlarshdira biler.
+
+
+
+
+II.(font aze)
+1.Allegro Script
+2.Antonio
+3.Argo
+4.Cutoff
+5.Credit Block
+6.Dosis
+7.Karikatur
+8.Jokerman
+9.ITC SerifGothic
+10.Larisa Script
+
+---Fontlarin istifade qaydasi---
+Project oldudugu qovluga font qovluqunu elave etmek
+Css'de font-face tag achiriq ve orada "font-family" ve fontun olduqu qovluga yolu gosteririk
+
+III.(font awesome)
+Font awesome movcuddur.
+Bu fontlari istifade etmek uchun CDN lazimdir.
+CDN- Content Delivery Network.
+Bunlari istifade etmek uchun fontlari kompyutere yuklemek lazim,ve index.html faylinda onlari yolu gostermek lazimdir.
